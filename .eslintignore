@@ -1,9 +1,0 @@
-package.json
-package-lock.json
-dist
-node_modules
-cypress
-check-commit.js
-jest.config.js
-.eslintrc.json
-src/app/shared/services/mocks
